@@ -4,13 +4,13 @@ A first-person shooter prototype built in Unity.
 
 ## About
 
-_(2-3 sentences here: what's the core gameplay idea, what makes it interesting, what stage it's at — prototype, vertical slice, etc.)_
+Multiplayer FPS prototype using Unity NetCode and Unity Gaming Services. Host or join sessions from the main menu, pick a character, and play a networked match. Currently at prototype stage — core movement, shooting, and client/server connectivity are in place.
 
 ## Getting Started
 
 ### Requirements
 - Unity Hub
-- Unity editor version: `___` _(check ProjectSettings/ProjectVersion.txt in the `fps game` folder, or Edit > Project Settings in the editor)_
+- Unity editor version: `6000.5.6f1` (Unity 6)
 - Git
 
 ### Setup
@@ -18,13 +18,10 @@ _(2-3 sentences here: what's the core gameplay idea, what makes it interesting, 
    ```bash
    git clone https://github.com/Jatin2705/FPS_Prototype1.git
    ```
-3. Open Unity Hub → **Add** → select the `fps game` folder (not the repo root — that's where the actual Unity project lives).
-4. Let Unity import/re-resolve packages (first open can take a few minutes).
-5. Open the main scene: `Assets/Scenes/___` _(fill in path)_.
-6. Press Play.
-7. hellllllllo
-8. rinkiya ke papa he hehe haasde
-9. 
+2. Open Unity Hub → **Add** → select the `fps game` folder (not the repo root — that's where the actual Unity project lives).
+3. Let Unity import/re-resolve packages (first open can take a few minutes).
+4. Open the main scene: `Assets/Scenes/MainMenu.unity` (gameplay lives in `Assets/Scenes/GameScene.unity`).
+5. Press Play.
 
 ## Project Structure
 
