@@ -22,6 +22,8 @@ _(2-3 sentences here: what's the core gameplay idea, what makes it interesting, 
 4. Let Unity import/re-resolve packages (first open can take a few minutes).
 5. Open the main scene: `Assets/Scenes/___` _(fill in path)_.
 6. Press Play.
+7. hellllllllo
+8. 
 
 ## Project Structure
 
