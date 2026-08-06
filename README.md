@@ -10,7 +10,7 @@ _(2-3 sentences here: what's the core gameplay idea, what makes it interesting, 
 
 ### Requirements
 - Unity Hub
-- Unity Editor version: `___` _(check ProjectSettings/ProjectVersion.txt in the `fps game` folder, or Edit > Project Settings in the editor)_
+- Unity editor version: `___` _(check ProjectSettings/ProjectVersion.txt in the `fps game` folder, or Edit > Project Settings in the editor)_
 - Git
 
 ### Setup
@@ -18,10 +18,10 @@ _(2-3 sentences here: what's the core gameplay idea, what makes it interesting, 
    ```bash
    git clone https://github.com/Jatin2705/FPS_Prototype1.git
    ```
-2. Open Unity Hub → **Add** → select the `fps game` folder (not the repo root — that's where the actual Unity project lives).
-3. Let Unity import/re-resolve packages (first open can take a few minutes).
-4. Open the main scene: `Assets/Scenes/___` _(fill in path)_.
-5. Press Play.
+3. Open Unity Hub → **Add** → select the `fps game` folder (not the repo root — that's where the actual Unity project lives).
+4. Let Unity import/re-resolve packages (first open can take a few minutes).
+5. Open the main scene: `Assets/Scenes/___` _(fill in path)_.
+6. Press Play.
 
 ## Project Structure
 
