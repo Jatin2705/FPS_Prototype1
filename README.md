@@ -23,7 +23,8 @@ _(2-3 sentences here: what's the core gameplay idea, what makes it interesting, 
 5. Open the main scene: `Assets/Scenes/___` _(fill in path)_.
 6. Press Play.
 7. hellllllllo
-8. 
+8. rinkiya ke papa he hehe haasde
+9. 
 
 ## Project Structure
 
