@@ -8,7 +8,7 @@ Multiplayer FPS prototype using Unity NetCode and Unity Gaming Services. Host or
 
 ## Getting Started
 
-### Requirements
+### Requirements( Must haves to run or test this)
 - Unity Hub
 - Unity editor version: `6000.5.6f1` (Unity 6)
 - Git
